@@ -1,12 +1,12 @@
 # SPAC-Warrant-Pricing-Model
 
-## Collaborating Company: AQR Arbitrage
-## Academic Supervisor: Prof. Mikhail Chernov
+Collaborating Company: AQR Arbitrage
+Academic Supervisor: Prof. Mikhail Chernov
 
 ## Project Goal
 1. Build a pricing model for SPAC warrant using warrant pricing models in existing literature.
 2. Construct a warrant trading strategy based on the best-performing pricing model; Develop trading strategies using market trend signals.
-3. Conduct back-tests using historical SPAC warrant pricing data
+3. Conduct back-tests using historical SPAC warrant pricing data.
 
 ## Project Conclusion
 1. The best-performing pricing model for SPAC warrant is Diluted Black-Scholes Model.
