@@ -1,6 +1,7 @@
 # SPAC-Warrant-Pricing-Model
 
 Collaborating Company: AQR Arbitrage
+
 Academic Supervisor: Prof. Mikhail Chernov
 
 ## Project Goal
